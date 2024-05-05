@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Data folders
-lectures/pytorch_examples/data
+data/*
