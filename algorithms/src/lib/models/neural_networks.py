@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-from lib.settings import Paths
+from algorithms.src.lib.settings import Paths
 
 class Perceptron:
     def __init__(self):
